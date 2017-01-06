@@ -1,4 +1,4 @@
 # weather_module
-see work https://codepen.io/upanan82/full/PGOqPL/
+see work https://upanan82.github.io/weather_module/
 
 © upanan82
