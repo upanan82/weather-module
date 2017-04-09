@@ -1,5 +1,3 @@
-'use strict';
-
 var city, 
     country, 
     loc,
